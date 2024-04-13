@@ -1,3 +1,3 @@
 ### .....................Krish Naik Tutorials......................
-### ----------------------.....iNeuron.....------------------------
+### --------------------.....iNeuron.....----------------------
 #### simple jupyter notebook on web image scrapping using BeautifulSoup 
